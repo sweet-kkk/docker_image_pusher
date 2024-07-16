@@ -5,3 +5,4 @@ grafana/grafana:11.0.0
 python:3.11-slim
 hashicorpdemoapp/product-api:v0.0.22
 hashicorpdemoapp/product-api-db:v0.0.22
+jenkins/jenkins:lts
