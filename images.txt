@@ -1,1 +1,1 @@
-mongo:latest
+jenkins/inbound-agent:latest-jdk17
