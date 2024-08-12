@@ -1,1 +1,1 @@
-gcr.io/kaniko-project/executor:v1.23.2-debug
+cr.fluentbit.io/fluent/fluent-bit:2.2.2
