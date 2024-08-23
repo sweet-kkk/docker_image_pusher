@@ -1,1 +1,1 @@
-otel/opentelemetry-collector:0.107.0
+nginx:alpine
