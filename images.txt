@@ -1,1 +1,1 @@
-golang:1.22-alpine
+prom/pushgateway
