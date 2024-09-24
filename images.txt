@@ -1,1 +1,2 @@
-debian:latest
+busybox:1.28
+
