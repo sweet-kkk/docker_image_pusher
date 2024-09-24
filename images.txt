@@ -1,1 +1,1 @@
-bitnami/mongodb:4.2
+centos:latest
