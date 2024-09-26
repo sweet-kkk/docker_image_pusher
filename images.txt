@@ -1,1 +1,1 @@
-bitnami/mongodb:7.0
+mysql:5.7
