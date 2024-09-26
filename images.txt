@@ -1,1 +1,1 @@
-mongodb:7.0
+bitnami/mongodb:7.0
