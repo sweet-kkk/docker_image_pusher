@@ -1,1 +1,2 @@
-docker.elastic.co/elasticsearch/elasticsearch:8.15.0
+osixia/openldap
+osixia/phpldapadmin:stable
