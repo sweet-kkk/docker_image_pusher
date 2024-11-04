@@ -1,1 +1,9 @@
-apache/kvrocks
+goharbor/redis-photon:v2.11.1
+goharbor/harbor-registryctl:v2.11.1
+goharbor/registry-photon:v2.11.1
+goharbor/nginx-photon:v2.11.1
+goharbor/harbor-log:v2.11.1
+goharbor/harbor-jobservice:v2.11.1
+goharbor/harbor-core:v2.11.1
+goharbor/harbor-portal:v2.11.1
+goharbor/harbor-db:v2.11.1
